@@ -1,0 +1,10 @@
+#!/usr/bin/python3 
+import sys
+import easyocr
+
+reader = easyocr.Reader(["tr"],verbose=False)
+text = ""
+for i in reader.readtext(sys.argv[1]):
+	text += i[1]+" "
+
+print(text)

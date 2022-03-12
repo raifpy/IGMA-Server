@@ -1,0 +1,21 @@
+[
+   {
+    "name": "trtspor",
+    "stream": false,
+    "deadline_timeout": 0,
+    "url": "https://tv-trtspor1.medya.trt.com.tr/",
+    "rerequest_on_error_count": 1,
+    "response_status_code": 200,
+    "error_on_status_codes": [],
+    "channels": {
+        "TRT Spor":"master_720.m3u8",
+        "Trt Spor":"master_720.m3u8"
+    },
+    "headers": {
+        "Referer":"https://www.trtizle.com/",
+        "Origin":"https://www.trtizle.com"
+    },
+    "loop": 1,
+    "loop_sleep": 30
+   }
+]
