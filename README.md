@@ -4,13 +4,13 @@
 
 ![IGMA](assets/IGMA1.png)
 
-#####-🇹🇷- Hakkında
+##### -🇹🇷- Hakkında
 Iptv futbol yayınlarını takip ederek gol kliplerini çıkartan 2 parçalı **kararsız** yazılım.
 
 
 
 
-######3. parti bağımlılıklar
+###### 3. parti bağımlılıklar
 * ffmpeg (subprocess)
 * ffprobe (subprocess)
 * sox (subprocess)
@@ -21,7 +21,7 @@ Iptv futbol yayınlarını takip ederek gol kliplerini çıkartan 2 parçalı **
 * [ajansspor.com](https://ajansspor.com/spor-ekrani) (kullanım dışı)
 
 
-######Eksikler
+###### Eksikler
 * Taslak algoritma
 * Tekrarlanan kod satırları
 * Yetersiz güvenlik önlemleri
@@ -32,10 +32,10 @@ Iptv futbol yayınlarını takip ederek gol kliplerini çıkartan 2 parçalı **
 **!! Taslak proje**
 #
 
-#####-🇬🇧- About
+##### -🇬🇧- About
 2-piece **unstable** software that tracks Iptv football (only Turkish) broadcasts and extracts goal clips.
 
-######3. party dependencies
+###### 3. party dependencies
 * ffmpeg (subprocess)
 * ffprobe (subprocess)
 * sox (subprocess)
@@ -45,7 +45,7 @@ Iptv futbol yayınlarını takip ederek gol kliplerini çıkartan 2 parçalı **
 * [sporekrani.com](https://www.sporekrani.com/) (deprecated)
 * [ajansspor.com](https://ajansspor.com/spor-ekrani) (deprecated)
 
-######Deficiencies
+###### Deficiencies
 * Draft algortihm
 * Repeated code lines
 * Inadequate security measures
